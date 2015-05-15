@@ -1,0 +1,8 @@
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix void: <http://rdfs.org/ns/void#> .
+
+<http://dbpedia.org/links/transparency.270a.info> a void:Linkset ;
+    void:objectsTarget <http://spcdata.digitpa.gov.it/loipa> ;
+    dc:author <http://spcdata.digitpa.gov.it/Amministrazione/agid> ;
+    dc:description "These triples connect municipalities to those contained in SPCData (http://spcdata.digitpa.gov.it:8899/sparql)"  .
